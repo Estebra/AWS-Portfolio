@@ -1,7 +1,0 @@
-{
-    "Records": [
-        {
-            "body": "Lambda function failed to reach international takes API for 'dct-billing-01' bucket and file 'billing_data_meat_may_2023.csv'."
-        }
-    ]
-}
