@@ -1,0 +1,16 @@
+id,item,bill_amount,units_sold,cost_per_unit_usd,gross_profit
+1,Artisan Cheese,3525.0,900,2.5,1275.0
+2,Grass-Fed Butter,3685.0,1050,2.2,1375.0
+3,Gourmet Yogurt,3850.0,1200,2.0,1450.0
+5,Organic Milk,4050.0,1500,1.5,1800.0
+4,Blue Cheese,3950.0,800,3.0,1550.0
+6,Cheddar Cheese,3500.0,850,2.6,1290.0
+7,Probiotic Kefir,3600.0,950,2.3,1415.0
+8,Gouda Cheese,3750.0,1000,2.8,950.0
+9,Monterey Jack Cheese,4000.0,1200,2.2,1360.0
+11,Greek Yogurt,4150.0,1300,2.0,1550.0
+10,Cream Cheese,4100.0,1100,1.8,2120.0
+13,Goat Cheese,4300.0,900,3.0,1600.0
+12,Cottage Cheese,4200.0,1500,1.5,1950.0
+14,Camembert Cheese,5000.0,1600,3.2,-120.0
+15,Burrata Coffee,4700.0,1500,3.4,-400.0
