@@ -10,4 +10,4 @@ I invite you to explore the different folders and discover the projects I've bee
 
 ### Basics
 
-* [EC2 Basics](../../AWS_EC2_basics/README.md)
+* [EC2 Basics](../AWS_EC2_basics/README.md)
