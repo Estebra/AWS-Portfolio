@@ -9,4 +9,4 @@ I invite you to explore the different folders and discover the projects I've bee
 ## Contenido
 
 ### Basics
-[EC2 Basics](AWS_EC2_basics/README.md)
+* [EC2Basics](AWS_EC2_basics/README.md)
