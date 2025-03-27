@@ -16,7 +16,7 @@ This document describes the steps to create an IDE environment in AWS Cloud9.
 
 **Step 3:** Fill-up the form with the desired name, description and specifications for the environment.
 
-[Cloud9 - Creation form](images/cloud9_creation.png)
+![Cloud9 - Creation form](images/cloud9_creation.png)
 
 **Step 4:** Check the EC2 instance type that was created for the Cloud9 environment.
 
@@ -24,7 +24,7 @@ This document describes the steps to create an IDE environment in AWS Cloud9.
 
 * You can check under instaces that the EC2 instance is running and is associated with the Cloud9 environment.
 
-[Cloud9 - Instances list](images/ec2_instance02.png)
+![Cloud9 - Instances list](images/ec2_instance02.png)
 
 **Step 5:** Now going back to the Cloud9 console, go to the environments section.
 
