@@ -16,7 +16,8 @@ Pretty useful when you want to automate tasks or use AWS from your local machine
 
 **Step 3:** Confirm the installation by running the following command in your terminal:
 
-``aws --version``
+    aws --version
+
 ![Confirmation](images/cli004.png)
 
 **Step 4:**
