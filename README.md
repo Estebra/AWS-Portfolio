@@ -15,6 +15,5 @@ I invite you to explore the different folders and discover the projects I've bee
 
 ### Advance Topics
 
-* [AWS advance](AWS_advance/README.md)
 * [Using Glue and EMR](Glue-EMR/README.md)
 * [Automating Security Audits](automated-Security-Auditing/README.md)
