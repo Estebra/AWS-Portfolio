@@ -6,12 +6,15 @@ Here you'll find a collection of my experiments with different AWS services and 
 
 I invite you to explore the different folders and discover the projects I've been working on!
 
-## Contents
+## Content
 
 ### Basics
+
 * [AWS Basics](AWS_basics/README.md)
 * [EC2 Basics](AWS_EC2_basics/README.md)
 
 ### Advance Topics
+
+* [AWS advance](AWS_advance/README.md)
 * [Using Glue and EMR](Glue-EMR/README.md)
 * [Automating Security Audits](automated-Security-Auditing/README.md)
